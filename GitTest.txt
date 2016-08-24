@@ -1,0 +1,31 @@
+GitInstructions
+
+set up your local directory using 
+	cd 
+	then the path to the folder you’ll be using
+	this tells the computer what folder all the stuff you’ll be ‘comparing’ to
+	in github
+
+check back on how to set up log in and password on the CL
+
+do a ls (mac) or dir (windows) to see what files are in the path
+
+do a git status
+	to compare files between git hub and your local computer
+
+do a git close URL (from github)
+	this will make a copy of your git hub repository to the current directory
+	on your computer
+
+make any changes on the computer files
+
+do a git add filename
+	this will upload from current directory to github
+	not done yet though
+
+do git commit -m “your commit message here”
+	this includes your commit plus the commit message
+
+do git push
+	not entirely sure here but seems to finalize the process
+
