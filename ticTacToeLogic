@@ -1,0 +1,10 @@
+When you get to it.
+
+think of the tic tac toe as a grid with numbers on the top and letters along the side
+
+if letters all = a a a & numbers are 1 2 3, win
+	this will be a vertical win
+if numbers all = 1 1 1 (or whatever) & letters = a b c, win
+	this would be a horizontal win
+if numbers = 1 2 3 & letters = a b c (or switch order)
+	this equals a diagonal win
