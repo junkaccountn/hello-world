@@ -29,3 +29,6 @@ do git commit -m “your commit message here”
 do git push
 	not entirely sure here but seems to finalize the process
 
+do get pull
+	to get the most current version of the file on github
+
